@@ -184,6 +184,13 @@ Ovobird
 <br><strong>Tico tico canário da terra</strong>
 
 
+Nutrari logo:
+![Nutrari](https://github.com/Luannunesesb01/API-Noroeste/assets/116287208/7f5ef598-ac71-4962-911b-8b9989e42abf)
+
+
+Biotron Logo:
+![biotron](https://github.com/Luannunesesb01/API-Noroeste/assets/116287208/43f32dcc-913a-4356-b4f7-ecf978827296)
+
 
 
 
